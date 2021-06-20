@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "항상 기록하자"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "김동영"
+name                     : "op2gs2"
 description              : "An amazing website."
 url                      : "https://op2gs2.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "김동영"
+  name             : "op2gs2"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "항상 공부하고, 기록하고 있습니다. <br> 잘못된 내용이 있으면, 수정하겠습니다."
   location         : "South Korea"
