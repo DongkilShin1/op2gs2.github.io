@@ -1,6 +1,6 @@
 ---
 title: "개인정보보호법"
-permalink: /categories/개인정보보호법
+permalink: /categories/개인정보보호법/
 layout: category
 author_profile: true
 taxonomy: 개인정보보호법
