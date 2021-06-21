@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "컴공 대학생의 "
+title                    : "컴공 대학생의 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "op2gs2"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "op2gs2"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "악성코드 분석과 정보보호관련법,<br> 운영체제, 네트워크, 인공지능에<br> 관심을 가지고 공부하고 있습니다.<br>항상 공부하고, 기록하고 있습니다. <br> 잘못된 내용이 있으면, 수정하겠습니다."
+  bio              : "악성코드 분석과 정보보호관련법,<br> 운영체제, 네트워크, 인공지능에<br> 관심을 가지고 공부하고 있습니다.<br><br>항상 공부하고, 기록하고 있습니다. <br> 잘못된 내용이 있으면, 수정하겠습니다."
   location         : "South Korea"
 #  email            :
   links:
