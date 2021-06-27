@@ -1,5 +1,5 @@
 ---
-title:  "2021-06-27-[컴퓨터 관련] RemoteDesktop 클라이언트에서 사용한 기록 삭제하기"
+title:  "[컴퓨터 관련] RemoteDesktop 클라이언트에서 사용한 기록 삭제하기"
 excerpt: "RemoteDesktop 접속기록을 삭제해봅시다."
 
 categories:
