@@ -4,6 +4,7 @@ excerpt: "STOS / STOSB / STOSW / STOSD에 대해 알아보자."
 
 categories: 리버싱
 
+toc: false
 
 tags:
     - STOS
