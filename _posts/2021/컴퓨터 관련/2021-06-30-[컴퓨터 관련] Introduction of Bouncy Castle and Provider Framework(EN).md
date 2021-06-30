@@ -32,7 +32,9 @@ But this library has collision to the existed class name, doesn't standard of An
 
 ## Introduction of Java Provider Framework
 ![JAVA_Cryptography_Architecture_OverView](https://github.com/op2gs2/Assignment_bouncycastle/blob/master/img/JAVA_Cryptography_Architecture_OverView.PNG?raw=true)
+
 ---------------------
+
 Java Provider Framework is the structure for loading crypto-related library in the JAVA environment.
 This consist of hierarchically, from Application, the abstract hierarchy of JCA / JCE, and Provider hierarchy.
 
