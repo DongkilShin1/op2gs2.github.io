@@ -23,7 +23,7 @@ last_modified_at: 2021-07-10T15:51:00+09:00
 - 해결 방법(1): vi/vim에서 자동으로 swap파일을 삭제하기
     1. Q(Quit)이나 A(Abort)를 눌러 vi/vim을 빠져나간다.
 
-        ```
+        ```bash
         E325: ATTENTION
         Found a swap file by the name ".week07-02.c.swp"
                   owned by: hallym   dated: Sat Apr 17 01:17:42 2021
@@ -66,7 +66,7 @@ last_modified_at: 2021-07-10T15:51:00+09:00
 
     4. 다시 vi를 들어가게 되면, swap파일을 삭제할 수 있는 창이 뜬다. 여기서, D(Delete)를 눌러 해당 파일을 삭제한다.
 
-        ```
+        ```bash
         E325: ATTENTION
         Found a swap file by the name ".week07-02.c.swp"
                   owned by: hallym   dated: Sat Apr 17 01:17:42 2021
@@ -97,7 +97,7 @@ last_modified_at: 2021-07-10T15:51:00+09:00
 - 해결 방법(2): 직접 swap 파일을 찾아 삭제하기
     1. Q(Quit)이나 A(Abort)를 눌러 vi/vim을 빠져나간다.
 
-        ```
+        ```bash
         E325: ATTENTION
         Found a swap file by the name ".week07-02.c.swp"
                   owned by: hallym   dated: Sat Apr 17 01:17:42 2021
