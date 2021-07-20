@@ -1,6 +1,6 @@
 ---
-title:  "[PWN] pwnable.kr 1번 문제풀이"
-excerpt: "pwnable.kr 1번 문제를 풀어봅시다."
+title:  "[PWN] pwnable.kr fd 문제풀이"
+excerpt: "pwnable.kr fd 문제를 풀어봅시다."
 
 categories:
   - PWN
